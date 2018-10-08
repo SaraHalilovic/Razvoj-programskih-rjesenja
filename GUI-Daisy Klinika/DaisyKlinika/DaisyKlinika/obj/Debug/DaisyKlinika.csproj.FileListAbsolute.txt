@@ -1,0 +1,70 @@
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.exe.config
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.exe
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.pdb
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Doktor_forma.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form1.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pacijent_forma.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pocetak.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Properties.Resources.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csproj.GenerateResource.Cache
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csproj.CoreCompileInputs.cache
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.exe
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.pdb
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csprojResolveAssemblyReference.cache
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Kartoncic.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form2.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Unos_preg.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Lista_cekanja.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Odaabir_odjela.resources
+C:\Users\DELL.DELL-PC\Desktop\hghhg\Daisy App\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pregledaj_pacijenta.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.exe.config
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.exe
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.pdb
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csprojResolveAssemblyReference.cache
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Doktor_forma.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form1.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form2.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form3.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Glavna.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.JMBGzaKart.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Kreiraj_Karton.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Lista_cekanja.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Odaabir_odjela.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pregledaj_pacijenta.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.RegistrujPacijenta.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Unos_preg.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Kartoncic.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pacijent_forma.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pocetak.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Properties.Resources.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.UnesiSliku.resources
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csproj.GenerateResource.Cache
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.exe
+C:\Users\Sara\Desktop\DaisyKlinika\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.pdb
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.exe
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.pdb
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.exe.config
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.exe
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\bin\Debug\DaisyKlinika.pdb
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Doktor_forma.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form1.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form2.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form3.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Glavna.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.JMBGzaKart.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Kreiraj_Karton.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Lista_cekanja.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Odaabir_odjela.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pregledaj_pacijenta.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.RegistrujPacijenta.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Unos_preg.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Kartoncic.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pacijent_forma.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pocetak.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Properties.Resources.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csproj.GenerateResource.cache
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csproj.CoreCompileInputs.cache
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.csprojAssemblyReference.cache
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Form4.resources
+C:\Users\Sara\Desktop\DaisyKlinikaa\DaisyKlinika\DaisyKlinika\obj\Debug\DaisyKlinika.Pretraga_Kartona.resources

@@ -1,0 +1,14 @@
+Zadaci:
+
+Uradjeno:
+1. Kreirati trazene forme iz postavke (+)
+2. Razlicite uloge (pacijent,doktor,tehnicar)-> nije uradjeno samo MD5hashiranje kod logovanja (iako je fja kreirana)
+3. Implementirati po bar 2 opcije za svaku od uloga
+ (sve opcije za pregled kartona za ulogu pacijenta pacijenta, sve opcije za ulogu tehnicara, za doktora unos,pregled i unosenje u karton)
+4. Dodati jednu korisnicku kontr(slika)
+
+
+5. Sta je moglo biti bolje uradjeno:
+
+* Koristenje Singlton patterna umjesto stalnog proslijedjivanja instance klinike kroz forme
+

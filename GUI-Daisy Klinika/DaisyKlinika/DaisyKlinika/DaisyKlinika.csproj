@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BD543BCB-6F78-487B-9346-C180FB245D6B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DaisyKlinika</RootNamespace>
+    <AssemblyName>DaisyKlinika</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cistac.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Obrisi zaposlenika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obrisi zaposlenika.Designer.cs">
+      <DependentUpon>Obrisi zaposlenika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pretraga Kartona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pretraga Kartona.Designer.cs">
+      <DependentUpon>Pretraga Kartona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrujPacijenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrujPacijenta.Designer.cs">
+      <DependentUpon>RegistrujPacijenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kreiraj_Karton.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kreiraj_Karton.Designer.cs">
+      <DependentUpon>Kreiraj_Karton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JMBGzaKart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JMBGzaKart.Designer.cs">
+      <DependentUpon>JMBGzaKart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Glavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Glavna.Designer.cs">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Lista_cekanja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lista_cekanja.Designer.cs">
+      <DependentUpon>Lista_cekanja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Odaabir_odjela.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Odaabir_odjela.Designer.cs">
+      <DependentUpon>Odaabir_odjela.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pregledaj_pacijenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pregledaj_pacijenta.Designer.cs">
+      <DependentUpon>Pregledaj_pacijenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Unos_preg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Unos_preg.Designer.cs">
+      <DependentUpon>Unos_preg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kartoncic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kartoncic.Designer.cs">
+      <DependentUpon>Kartoncic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ordinacija.cs" />
+    <Compile Include="Doktor_forma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Doktor_forma.Designer.cs">
+      <DependentUpon>Doktor_forma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pacijent_forma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pacijent_forma.Designer.cs">
+      <DependentUpon>Pacijent_forma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pocetak.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pocetak.Designer.cs">
+      <DependentUpon>Pocetak.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UnesiSliku.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UnesiSliku.Designer.cs">
+      <DependentUpon>UnesiSliku.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vanjski_saradnik.cs" />
+    <Compile Include="Uprava.cs" />
+    <Compile Include="Uposlenik.cs" />
+    <Compile Include="Tehnicki_administrator.cs" />
+    <Compile Include="SmrtniKarton.cs" />
+    <Compile Include="Recepcija.cs" />
+    <Compile Include="Pregled.cs" />
+    <Compile Include="Pacijent2.cs" />
+    <Compile Include="Pacijent.cs" />
+    <Compile Include="Klinika.cs" />
+    <Compile Include="Med_Tehnicar.cs" />
+    <Compile Include="Karton.cs" />
+    <Compile Include="HitniPacijent.cs" />
+    <Compile Include="Doktor.cs" />
+    <Compile Include="IMetode.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Doktor_forma.resx">
+      <DependentUpon>Doktor_forma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Glavna.resx">
+      <DependentUpon>Glavna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JMBGzaKart.resx">
+      <DependentUpon>JMBGzaKart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kreiraj_Karton.resx">
+      <DependentUpon>Kreiraj_Karton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Lista_cekanja.resx">
+      <DependentUpon>Lista_cekanja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obrisi zaposlenika.resx">
+      <DependentUpon>Obrisi zaposlenika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Odaabir_odjela.resx">
+      <DependentUpon>Odaabir_odjela.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pregledaj_pacijenta.resx">
+      <DependentUpon>Pregledaj_pacijenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pretraga Kartona.resx">
+      <DependentUpon>Pretraga Kartona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrujPacijenta.resx">
+      <DependentUpon>RegistrujPacijenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Unos_preg.resx">
+      <DependentUpon>Unos_preg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kartoncic.resx">
+      <DependentUpon>Kartoncic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pacijent_forma.resx">
+      <DependentUpon>Pacijent_forma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pocetak.resx">
+      <DependentUpon>Pocetak.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\daisy.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

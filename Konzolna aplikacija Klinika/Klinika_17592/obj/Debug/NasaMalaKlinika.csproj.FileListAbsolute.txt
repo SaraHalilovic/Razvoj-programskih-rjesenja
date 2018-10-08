@@ -1,0 +1,7 @@
+C:\Users\Sara\source\repos\Klinika_17592a\Klinika_17592\bin\Debug\Klinika_17592.exe.config
+C:\Users\Sara\source\repos\Klinika_17592a\Klinika_17592\bin\Debug\Klinika_17592.exe
+C:\Users\Sara\source\repos\Klinika_17592a\Klinika_17592\bin\Debug\Klinika_17592.pdb
+C:\Users\Sara\source\repos\Klinika_17592a\Klinika_17592\obj\Debug\NasaMalaKlinika.csproj.CoreCompileInputs.cache
+C:\Users\Sara\source\repos\Klinika_17592a\Klinika_17592\obj\Debug\Klinika_17592.exe
+C:\Users\Sara\source\repos\Klinika_17592a\Klinika_17592\obj\Debug\Klinika_17592.pdb
+C:\Users\Sara\source\repos\Klinika_17592a\Klinika_17592\obj\Debug\NasaMalaKlinika.csprojResolveAssemblyReference.cache

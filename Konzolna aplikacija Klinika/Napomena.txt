@@ -1,0 +1,6 @@
+Jedinstveni maticni brojevi (provjera):
+Ukoliko je datum rodenja:02.12.1997
+Onda ispravan pocetak jedinstvenog maticnog broja je 0212997 (odnosno ignorira se cifra hiljada u godini)
+
+-Interfejs-
+Popravljen u verziji poslanoj preko email-a
